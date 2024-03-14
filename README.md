@@ -1,7 +1,7 @@
 # Color Markers - FreeCodeCamp Tutorial
 
 
-Overview
+# Overview
 Welcome to the Color Markers project, a tutorial created by Abu Talha for FreeCodeCamp. In this tutorial, you'll learn how to create a simple web application that allows users to select colors and draw with them on a canvas. This README serves as a guide to understanding the project and getting started with the tutorial.
 
 Table of Contents
