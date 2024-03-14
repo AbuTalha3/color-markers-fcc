@@ -39,6 +39,6 @@ Once you have the project open in your browser, you can start drawing immediatel
 Contributions to the Color Markers project are welcome and encouraged. If you have any ideas for improvements or would like to report a bug, please open an issue on the GitHub repository. Pull requests are also appreciated.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the ../LICENSE file for details.
 
 Thank you for checking out the Color Markers tutorial! We hope you enjoy creating and experimenting with your own colorful drawings. If you have any questions or need further assistance, feel free to reach out to Abu Talha. Happy coding! 🎨🖌️
