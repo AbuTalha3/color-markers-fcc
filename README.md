@@ -35,7 +35,7 @@ Open the index.html file in your web browser.
 Usage
 Once you have the project open in your browser, you can start drawing immediately. Choose a color from the palette on the right side of the screen, select your brush size, and begin drawing on the canvas. To clear the canvas, simply click the "Clear" button. Additionally, you can save your artwork by clicking the "Save" button.
 
-Contributing
+# Contributing
 Contributions to the Color Markers project are welcome and encouraged. If you have any ideas for improvements or would like to report a bug, please open an issue on the GitHub repository. Pull requests are also appreciated.
 
 License
