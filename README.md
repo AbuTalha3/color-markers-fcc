@@ -23,7 +23,7 @@ Save your masterpiece as an image.
 Installation
 To get started with the Color Markers project, follow these steps:
 
-Clone the repository:
+# Clone the repository:
 bash
 Copy code
 git clone https://github.com/your-username/color-markers.git
